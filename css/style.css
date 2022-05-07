@@ -1,0 +1,75 @@
+
+.attribution {margin: 0px; font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+li{
+    font-size: 1.2rem;
+}
+.ico{
+    margin: 10px;
+}
+.dropdown-item{
+    font-size: 1rem;
+}
+.nav-link{
+    color: gray;
+    margin-left: 25px;
+}
+.nav-link:hover {
+color: black;
+transition: ease-in-out 1s;
+}
+.register{
+    border: 1px solid black;
+}
+.register:hover{
+    transition: ease-in-out 1s;
+    border: 1px solid black;
+    background: black;
+    color: white;
+}
+.menulist{
+    font-size: 1rem;
+}
+.left{
+    height: 100vh;
+}
+.right{
+    width: 100%;
+    height: 100vh;
+}
+h1{
+    font-size: 100px;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    line-height: 80%;
+    text-align: justify;
+}
+p{
+    width: 70%;
+    font-size: 18px;
+    color: hsl(0, 0%, 41%);
+    font-weight: 500, 700;
+}
+.boton{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+}
+.learnMore{
+    text-align: center;
+    padding: 10px;
+    width: 25%;
+    height: auto;
+    border-radius: 12px;
+    font-size: 1.5rem;
+}
+.imgs{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 21.5%;
+}
+.ico2{
+    width: 100%;
+    margin: 20px;
+}

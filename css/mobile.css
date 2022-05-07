@@ -1,0 +1,82 @@
+@media screen and (max-width:1024px){
+    #imgdesk{
+        display: none;
+    }
+    #imgmobile{
+        display: block;
+    }
+    #logotipe{
+        display: none;
+    }
+    .nav{
+        display: flex;
+        justify-content: center;
+    }
+    .nav-link{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .dropdown-menu{
+        margin-left: 25%;
+        width: 50%;
+    }
+    .dropdown-item{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .right{
+        width: 100%;
+        height: auto;
+        
+    }
+    h1{
+        font-size: 2.5rem;
+        line-height: 80%;
+        text-align: center;
+        margin: 10%;
+    }
+    p{
+        width: auto;
+        text-align: center;
+    }
+    .h4{
+        font-size: 18px;
+    }
+    .boton{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+    .learnMore{
+        width: auto;
+        height: auto;
+        border-radius: 10px;
+        font-size: 18px;
+    }
+    .imgs{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 7%;
+    }
+}
+@media screen and (min-width:1025px){
+    #imgdesk{
+        display: block;
+    }
+    #imgmobile{
+        display: none;
+    }
+    .nav{
+        display: flex;
+        justify-content: start;
+    }
+    .Login{
+        display: flex;
+        justify-content: end;
+    }
+    
+}
