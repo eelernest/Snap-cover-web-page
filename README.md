@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/eelernest/snap-cover-web-page)
-- Live Site URL: [Add live site URL here](https://eelernest.github.io/snap-cover-web-page/)
+- Solution URL: [Code in github](https://github.com/eelernest/snap-cover-web-page)
+- Live Site URL: [Live :)](https://eelernest.github.io/snap-cover-web-page/)
 
 ## My process
 
