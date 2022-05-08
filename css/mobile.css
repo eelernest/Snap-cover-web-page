@@ -20,6 +20,7 @@
     .dropdown-menu{
         margin-left: 25%;
         width: 50%;
+        border: none;
     }
     .dropdown-item{
         display: flex;
